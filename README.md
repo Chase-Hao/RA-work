@@ -1,6 +1,6 @@
 # RA-work
 
-This is RA work with Professor Ran Duchin and Denis Sosyura.
+This is my RA working code with Professor Ran Duchin and Denis Sosyura.
 
 This code repository includes two projects:\
 1-5: for paper *'Remotely Productive: The Efficacy of Remote Work for Executives'*\
